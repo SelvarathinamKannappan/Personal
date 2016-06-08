@@ -1,0 +1,4 @@
+Name : Selvarathinam K
+Technical : C#, MVC ASP.NET, WCF
+UI : Javascript, Angular JS
+HTML5, CSS3 
